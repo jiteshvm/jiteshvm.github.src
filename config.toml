@@ -1,0 +1,46 @@
+baseurl = "http://localhost:1313/"
+relativeURLs = true
+languageCode = "en-us"
+title = "Jitesh Mulchandani"
+theme = "hyde-hyde"
+
+## Hugo Built-in Features
+# disqusShortname = "your-disqus-shortname"
+# googleAnalytics = "your-google-analytics-id"
+enableRobotsTXT = true
+
+[params]
+author = "Jitesh Mulchandani"
+description = "game developer"
+authorimage = "img/jm_iconGray.ico"
+highlightjs = true
+highlightjsstyle = "github"
+# please choose either GraphComment or Disqus
+GraphCommentId = "jiteshmulchandani"
+# layoutReverse = true
+# sidebarSticky = true
+
+## Social Accounts
+[params.social]
+    github = "jiteshvm"
+    linkedin = "jitesh-mulchandani-5b227437"
+    twitter = "jiteshvm"
+    stackoverflow = "922347"
+    email = "jiteshvm@gmail.com"
+
+## Main Menu
+[[menu.main]]
+    name = "Posts"
+    weight = 100
+    identifier = "posts"
+    url = "/posts/"
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
+[[menu.main]]
+    name = "Projects"
+    identifier = "projects"
+    weight = 200
+    url = "/projects/"
