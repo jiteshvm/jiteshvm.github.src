@@ -17,6 +17,7 @@ highlightjs = true
 highlightjsstyle = "vs2015"
 # please choose either GraphComment or Disqus
 GraphCommentId = "jiteshmulchandani"
+copyright = "<p></p>"
 # layoutReverse = true
 # sidebarSticky = true
 
