@@ -14,7 +14,7 @@ author = "Jitesh Mulchandani"
 description = "game developer"
 authorimage = "img/jm_iconGray.ico"
 highlightjs = true
-highlightjsstyle = "vs2015"
+highlightjsstyle = "vs"
 # please choose either GraphComment or Disqus
 GraphCommentId = "jiteshmulchandani"
 copyright = "<p></p>"
