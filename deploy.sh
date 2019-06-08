@@ -24,4 +24,4 @@ git push origin master
 cd ..
 
 # keep window open
-cmd /k
+#cmd /k
