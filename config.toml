@@ -2,7 +2,7 @@ baseurl = "https://jiteshvm.github.io/"
 relativeURLs = true
 languageCode = "en-us"
 title = "Jitesh Mulchandani"
-theme = "hyde-hyde"
+theme = "airavat"
 
 ## Hugo Built-in Features
 # disqusShortname = "your-disqus-shortname"
